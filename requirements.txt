@@ -1,1 +1,8 @@
-
+streamlit
+easyocr
+numpy
+Pillow
+opencv-python-headless
+rapidfuzz
+torch
+torchvision
